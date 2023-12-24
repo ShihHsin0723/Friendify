@@ -45,6 +45,6 @@ Once the requests are accepted, users become friends and they can view each othe
 6. Final Code Review (PR)
 7. Accept/Modify
 
-## Preparation for Running Friendify
+## Running Friendify
 1. Download the JSON-java JAR file by following the instructions here: https://github.com/stleary/JSON-java
 2. Add the file as a new library (Open Module Settings -> + Libraries -> Java -> Select the file)
